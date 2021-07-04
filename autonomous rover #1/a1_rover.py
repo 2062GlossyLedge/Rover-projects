@@ -1,3 +1,4 @@
+#Motor control forwards and backwards 
 import RPi.GPIO as io
 from time import sleep
 
