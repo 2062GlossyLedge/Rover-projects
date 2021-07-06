@@ -5,7 +5,6 @@ from time import sleep
 in1 = 24
 in2 = 23
 enA = 25
-temp1=1
 
 in3 = 20
 in4 = 21
