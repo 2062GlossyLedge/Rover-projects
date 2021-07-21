@@ -72,11 +72,11 @@ sensor2.when_no_line = forward()
 
 
 try:
-    # Repeat the next indented block forever
+    # Repeats code in terminal 
     while True:
         sleep(10)
 
-# If you press CTRL+C, cleanup and stop
+# Press CTRL-C to stop rover 
 except KeyboardInterrupt:
     print("Exiting")
     stop()
